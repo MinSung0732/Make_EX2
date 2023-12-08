@@ -1,0 +1,33 @@
+#a{
+    width: 800px;
+    height: 400px;
+    background-color: cornflowerblue;
+}
+
+#b{
+    width: 320px;
+    height: 400px;
+    background-color: aquamarine;
+}
+
+#c{
+    width: 320px;
+    height: 400px;
+    background-color: pink;
+}
+
+/* #a{
+    width: 800px;
+    height: 200px;
+    background-color:cornflowerblue;
+}
+#b{
+    width: 800px;
+    height: 460px;
+    background-color:aquamarine;
+}
+#c{
+    width: 800px;
+    height: 200px;
+    background-color: pink;
+} */
